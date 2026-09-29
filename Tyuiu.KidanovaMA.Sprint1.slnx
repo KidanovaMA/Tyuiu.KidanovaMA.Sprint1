@@ -24,6 +24,11 @@
     <Project Path="Tyuiu.KidanovaMA.Sprint1.Task5.V6.Test/Tyuiu.KidanovaMA.Sprint1.Task5.V6.Test.csproj" />
     <Project Path="Tyuiu.KidanovaMA.Sprint1.Task5.V6/Tyuiu.KidanovaMA.Sprint1.Task5.V6.csproj" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V10.Lib/Tyuiu.KidanovaMA.Sprint1.Task6.V10.Lib.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V10.Test/Tyuiu.KidanovaMA.Sprint1.Task6.V10.Test.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V10/Tyuiu.KidanovaMA.Sprint1.Task6.V10.csproj" />
+  </Folder>
   <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25/Tyuiu.KidanovaMA.Sprint1.Task0.V25.csproj" />
