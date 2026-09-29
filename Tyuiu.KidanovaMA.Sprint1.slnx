@@ -21,8 +21,8 @@
   </Folder>
   <Folder Name="/Task5/">
     <Project Path="Tyuiu.KidanovaMA.Sprint1.Task5.V6/Tyuiu.KidanovaMA.Sprint1.Task5.V6.csproj" />
-    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V6.Lib/Tyuiu.KidanovaMA.Sprint1.Task6.V6.Lib.csproj" />
-    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V6.Test/Tyuiu.KidanovaMA.Sprint1.Task6.V6.Test.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V6.Lib/Tyuiu.KidanovaMA.Sprint1.Task5.V6.Lib.csproj" />
+    <Project Path="Tyuiu.KidanovaMA.Sprint1.Task6.V6.Test/Tyuiu.KidanovaMA.Sprint1.Task5.V6.Test.csproj" />
   </Folder>
   <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib.csproj" />
   <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test.csproj" />

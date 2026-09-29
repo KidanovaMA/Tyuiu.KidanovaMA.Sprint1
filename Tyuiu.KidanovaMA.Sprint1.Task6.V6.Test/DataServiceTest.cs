@@ -1,6 +1,6 @@
-﻿using Tyuiu.KidanovaMA.Sprint1.Task6.V6.Lib;
+﻿using Tyuiu.KidanovaMA.Sprint1.Task5.V6.Lib;
 
-namespace Tyuiu.KidanovaMA.Sprint1.Task6.V6.Test
+namespace Tyuiu.KidanovaMA.Sprint1.Task5.V6.Test
 {
     [TestClass]
     public sealed class DataServiceTest
