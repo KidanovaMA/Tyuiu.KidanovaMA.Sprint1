@@ -35,13 +35,13 @@ namespace Tyuiu.KidanovaMA.Sprint1.Task5.V6
             int k;
             Console.WriteLine("Ведите число k (от 1 до 365):");
             k = Convert.ToInt32(Console.ReadLine());
-            string result = ds.FindCardNameAndValue(k, 0);
+            int Res = ds.Calculate(k);
             
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine($"День недели: {result}");
+            Console.WriteLine($"День недели: {Res}");
             Console.ReadLine();
         }
     }
