@@ -1,0 +1,19 @@
+﻿using System.Xml.Schema;
+using Tyuiu.KidanovaMA.Sprint1.Task1.V21.Lib;
+
+namespace Tyuiu.KidanovaMA.Sprint1.Task1.V21.Test
+{
+    [TestClass]
+    public sealed class DataServiceTest
+    {
+        [TestMethod]
+        public void ValidExpression()
+        {
+            DataService ds = new DataService();
+            double x = 1.0;
+            double y = 2.0;
+            var res = ds.Calculate(x, y);
+            Assert.AreEqual(0.4, res);
+        }
+    }
+}
