@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Lib.csproj" />
+  <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test/Tyuiu.KidanovaMA.Sprint1.Task0.V25.Test.csproj" />
+  <Project Path="Tyuiu.KidanovaMA.Sprint1.Task0.V25/Tyuiu.KidanovaMA.Sprint1.Task0.V25.csproj" />
+</Solution>
